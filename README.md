@@ -17,3 +17,4 @@ Android 11
 - [crDroidAndroid v7.39 (23/02/2024)](https://github.com/Vhmit/releases-msm8953/releases/tag/crDroidAndroid-11.0-20240223-v7.39)
 - [crDroidAndroid v7.41 (26/04/2024)](https://github.com/Vhmit/releases-msm8953/releases/tag/crDroidAndroid-11.0-20240426-v7.41)
 - [crDroidAndroid v7.44-security (19/08/2024)](https://github.com/Vhmit/releases-msm8953/releases/tag/crDroidAndroid-11.0-20240819-v7.44-security)
+- [/e/OS v2.3 (23/10/2025)](https://github.com/Vhmit/releases-msm8953/releases/tag/e-2.3-r-20251023-UNOFFICIAL)
