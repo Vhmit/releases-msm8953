@@ -19,3 +19,4 @@ Android 11
 - [crDroidAndroid v7.44-security (19/08/2024)](https://github.com/Vhmit/releases-msm8953/releases/tag/crDroidAndroid-11.0-20240819-v7.44-security)
 - [/e/OS v2.3 (23/10/2025)](https://github.com/Vhmit/releases-msm8953/releases/tag/e-2.3-r-20251023-UNOFFICIAL)
 - [LineageOS Revived (24/10/2025)](https://github.com/Vhmit/releases-msm8953/releases/tag/lineage-rev-18.1-20251024-UNOFFICIAL)
+- [Havoc-OS Revived (25/10/2025)](https://github.com/Vhmit/releases-msm8953/releases/tag/Havoc-OS-v4.27-20251025-Community-Vanilla)
